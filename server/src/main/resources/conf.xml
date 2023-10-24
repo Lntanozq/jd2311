@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--注:三级标签名不要相同-->
+<!-- 服务器的配置文件 -->
+<environment>
+    <logger class="com.briup.smart.env.util.LogImpl">
+    </logger>
+
+    <backup class="com.briup.smart.env.util.BackupImpl">
+    </backup>
+
+    <server class="com.briup.server.ServerImpl">
+        <server-port>2334</server-port>
+    </server>
+
+    <dbStore class="com.briup.server.DbStoreImpl">
+        <db-backup-file-path>db-backup.txt</db-backup-file-path>
+        <batch-size>5000</batch-size>
+    </dbStore>
+
+</environment>

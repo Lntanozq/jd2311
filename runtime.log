@@ -1,0 +1,114 @@
+2023-09-27 09:43:13,812  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-27 09:45:59,767 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 165974
+2023-09-27 09:45:59,768 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-27 09:45:59,768 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 165997
+2023-09-27 09:45:59,769 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-27 09:45:59,769 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 166017
+2023-09-27 09:45:59,769 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-27 09:45:59,770 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/envir?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 166043
+2023-09-27 09:45:59,770 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-27 09:48:07,102  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-27 14:38:15,760  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 09:48:38,187  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【20】条，其中：
+2023-09-28 09:48:38,189  INFO [main] (LogImpl.java:19) - 温度数据【10】条，
+2023-09-28 09:48:38,189  INFO [main] (LogImpl.java:19) - 湿度数据【10】条，
+2023-09-28 09:48:38,190  INFO [main] (LogImpl.java:19) - 光照强度数据【0】条，
+2023-09-28 09:48:38,191  INFO [main] (LogImpl.java:19) - CO2浓度数据【0】条。
+2023-09-28 09:48:40,252  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 09:50:44,128  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【20】条，其中：
+2023-09-28 09:50:44,131  INFO [main] (LogImpl.java:19) - 温度数据【10】条，
+2023-09-28 09:50:44,131  INFO [main] (LogImpl.java:19) - 湿度数据【10】条，
+2023-09-28 09:50:44,131  INFO [main] (LogImpl.java:19) - 光照强度数据【0】条，
+2023-09-28 09:50:44,133  INFO [main] (LogImpl.java:19) - CO2浓度数据【0】条。
+2023-09-28 09:50:46,278  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 09:54:04,152  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【20】条，其中：
+2023-09-28 09:54:04,155  INFO [main] (LogImpl.java:19) - 温度数据【10】条，
+2023-09-28 09:54:04,156  INFO [main] (LogImpl.java:19) - 湿度数据【10】条，
+2023-09-28 09:54:04,156  INFO [main] (LogImpl.java:19) - 光照强度数据【0】条，
+2023-09-28 09:54:04,158  INFO [main] (LogImpl.java:19) - CO2浓度数据【0】条。
+2023-09-28 09:54:06,263  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 09:57:20,622  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 09:57:20,624  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 09:57:20,624  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 09:57:20,624  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 09:57:20,626  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 09:57:33,169  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 10:03:19,384  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 10:03:19,386  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 10:03:19,386  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 10:03:19,386  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 10:03:19,388  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 10:13:23,681  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 10:13:23,684  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 10:13:23,684  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 10:13:23,684  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 10:13:23,685  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 14:03:37,872  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 14:03:37,874  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 14:03:37,874  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 14:03:37,874  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 14:03:37,876  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 14:38:45,937  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 14:38:45,939  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 14:38:45,939  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 14:38:45,940  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 14:38:45,942  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 14:38:59,436  INFO [Thread-1] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 14:48:04,379  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 14:48:04,383  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 14:48:04,383  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 14:48:04,383  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 14:48:04,385  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 14:48:15,941 ERROR [Thread-3] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 556543
+2023-09-28 14:48:15,942 DEBUG [Thread-3] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 14:48:15,943 ERROR [Thread-3] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 556576
+2023-09-28 14:48:15,943 DEBUG [Thread-3] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 14:48:15,945 ERROR [Thread-3] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 556601
+2023-09-28 14:48:15,946 DEBUG [Thread-3] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 14:48:15,948 ERROR [Thread-3] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 556636
+2023-09-28 14:48:15,949 DEBUG [Thread-3] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 14:48:15,950 ERROR [Thread-3] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://127.0.0.1:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 556676
+2023-09-28 14:48:15,951 DEBUG [Thread-3] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 14:55:27,239  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 14:55:27,240  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 14:55:27,241  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 14:55:27,241  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 14:55:27,242  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 14:55:40,296  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 15:01:41,928  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 15:01:41,930  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 15:01:41,930  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 15:01:41,930  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 15:01:41,933  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 15:01:55,531  INFO [Thread-0] (DruidDataSource.java:983) - {dataSource-1} inited
+2023-09-28 15:07:38,452  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 15:07:38,454  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 15:07:38,454  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 15:07:38,454  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 15:07:38,455  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 15:07:49,300 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 353773
+2023-09-28 15:07:49,300 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 15:07:49,302 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 353794
+2023-09-28 15:07:49,303 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 15:07:49,304 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 353810
+2023-09-28 15:07:49,305 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 15:07:49,308 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 353828
+2023-09-28 15:07:49,308 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 15:07:49,309 ERROR [Thread-2] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 353850
+2023-09-28 15:07:49,309 DEBUG [Thread-2] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 15:34:41,339 ERROR [main] (LogImpl.java:29) - 备份文件不存在
+2023-09-28 15:35:28,819  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 15:35:28,822  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 15:35:28,822  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 15:35:28,822  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 15:35:28,824  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 15:35:40,283 ERROR [Thread-3] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 1670965
+2023-09-28 15:35:40,284 DEBUG [Thread-3] (DruidDataSource.java:1462) - skip not validate connection.
+2023-09-28 15:51:18,056 ERROR [main] (LogImpl.java:29) - 备份文件不存在
+2023-09-28 15:52:42,639  INFO [main] (LogImpl.java:19) - 本次共采集环境数据【106866】条，其中：
+2023-09-28 15:52:42,641  INFO [main] (LogImpl.java:19) - 温度数据【35343】条，
+2023-09-28 15:52:42,641  INFO [main] (LogImpl.java:19) - 湿度数据【35343】条，
+2023-09-28 15:52:42,641  INFO [main] (LogImpl.java:19) - 光照强度数据【26056】条，
+2023-09-28 15:52:42,642  INFO [main] (LogImpl.java:19) - CO2浓度数据【10124】条。
+2023-09-28 15:52:53,736 ERROR [Thread-4] (DruidAbstractDataSource.java:1481) - discard long time none received connection. , jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, jdbcUrl : jdbc:mysql://192.168.235.100:3306/env?serverTimezone=Asia/Shanghai&useServerPrepStmts=true, lastPacketReceivedIdleMillis : 1033438
+2023-09-28 15:52:53,736 DEBUG [Thread-4] (DruidDataSource.java:1462) - skip not validate connection.
